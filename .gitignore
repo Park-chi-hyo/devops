@@ -4,3 +4,5 @@ bin/
 .classpath
 target/
 node_modules/
+dist/
+build/
